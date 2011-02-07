@@ -1,0 +1,22 @@
+body{
+  background-color: #44A2BB;
+  font-family: helvetica;
+  color: #D7E035;
+}
+
+h1{
+  font-size: 50px;
+}
+
+p{
+  color: #FFF;
+}
+
+ul li{
+  color: #FFF;
+  list-style: lower-roman;
+}
+
+.blink{
+  /* text-decoration: blink; */
+}
